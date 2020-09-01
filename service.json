@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asdasdfasdf-125152335456338123111298142",
+  "private_key_id": "74b12312341234434556717183863462171234656dcb1f8131230fb1a052f0a30as234dfasd322641a03514b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMC0UAT+Clym\n04stSbasdfq34tasdf54tgasdfa4tfsfdgsdt5gsdsfgadfgasfgafgafgsdafasd==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase007@asdasdfasdf-125152335456338123111298142.iam.gserviceaccount.com",
+  "client_id": "asdfasdf23452345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase007%40asdasdfasdf-125152335456338123111298142.iam.gserviceaccount.com"
+}
